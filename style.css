@@ -51,7 +51,7 @@ h1 {
     gap: 10px;
     font-size: 20px;
     border-radius: 20px;
-    color: white;
+    color: rgb(132, 190, 225);
     box-shadow: 2px 2px 10px rgb(41, 41, 99), 2px 2px 10px aqua;
     border: none;
     transition: all 0.5s;
